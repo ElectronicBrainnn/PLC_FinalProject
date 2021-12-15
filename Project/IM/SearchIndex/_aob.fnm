@@ -1,0 +1,29 @@
+þÿÿÿÕ###id###VisulizationRootBrowsableId###TargetIdNameDisplayName-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###ImmediateParentId###ReferenceFieldIds###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreAcknowledgementModelAlarmAlertAcknowledgementIdAcknowledgedText
+ComingTextComingGoingText	GoingText	Alignment	CycleUnitStartingPointDayStartingPointHourStartingPointMinuteStartingPointMonthStartingPointSecond	CycleTimeCommentNumber	ShortNameWebLanguageStartScreenWebUxStartScreen
+LogoutTimeDataTypeHmiDataType###SearchFilterIdsCode	BackColor	GridColorBackFillStyleBackFlashingColorOffBackFlashingColorOnBackFlashingRateBorderBackColorBorderColorBorderFlashingColorOffBorderFlashingColorOnBorderFlashingRateCornerStyle	EdgeStyleFillingDirectionFillPatternColorFlashingFlashingColorOffFlashingColorOnFlashingRateFontFontName	ForeColorHorizontalAlignmentLayerLineEndShapeStyleTextTextOrientationVerticalAlignment
+BlinkColor	BlinkMode
+BlinkSpeedFillColorModeFlipRotationToolTipTextColorEndStyle
+StartStyleStyleAboveUpperLimitColorBelowLowerLimitColor
+DataFormatFormatPatternModeUnitBackColorBottomBackColorTopHighLimitColorLowLimitColorStyleSettingsThumbBackColorCaptionBackColorCaptionColorSelectBackColorSelectForeColorSeparatorBackColorSeparatorColorSeparatorLineEndShapeStyleSeparatorStyleTextOffTextOnSelectedTextText0Text1Text2###UpdatableParentIdText3CheckmarkAlignmentBorderBrightColor3DBorderShadeColor3DPictureAlignmentTitleLanguageVersionInterfaceMember_NameInterfaceMember_DatatypeInterfaceMember_ValueInterfaceMember_CommentNetwork titleLADFBD CodeDatatypeAddressUITypeEditorBitPositionRangeFromToTagAddressPanelInfoAddressAccessModeCoding
+ConnectionPlcNameControllerTagLimitHighConstantLimitLowConstant
+StartValueSubstituteValueRDT_TypeCommonAlarmClassStationNamePartnerNameNodeNameUITypeEditorTagExpressionBitPositionUserDefindedDynamicNameUITypeEditorStartvalueUITypeEditorEndvalue	FunctionsPropertyNameTagValueForPropertyTagPageNetwork commentAuthorFamilyUser-defined IDInstance DBUITypeEditorXPosStartUITypeEditorXPosEndUITypeEditorYPosStartUITypeEditorYPosEnd
+InputValueProcessValueEmailAddressAcknowledgementGroupTextInvalidAttempts	ValidDaysWarningDaysGenerationsMinNumPsswd
+ServerName
+PortNumberWindowsDomain
+LineColor1
+LineColor2OperatableAreaColor
+Visibility	FillStyleFirstGradientColor
+FocusColorHorizontalPictureAlignmentMiddleGradientColorPictureAutoSizingSecondGradientColorVerticalPictureAlignmentAcquisitionTriggerModeAcquisitionCycleConfirmationTypeLimitHighLowConstantLimitLowHighConstant	JobNumberCaptionFontCaptionTextHelpTextInnerBackColorOffInnerBackColorOnSwitchOrientationScrollbarBackgroundColorScrollbarForegroundColorAuthorizationAdaptPicture
+AutoSizingTransparentColorPictureScrollBarOrientationPictureListCenterColorDangerLowerRangeColorDangerRangeColor	DialColorDialFillStyleInnerDialColorNormalRangeColorPointerColorScaleLabelColorScaleLabelFontScaleTickColor	UnitColorUnitFontUnitTextWarningLowerRangeColorWarningRangeColorPreCodeHeaderFooterPageFormatUnitPageOrientationUnitPathRestartOptionsStorageMediaThresholdBehaviorAcquisitionModeLoggingCycleProcessTagTypeNameToleranceOption
+ProcessTagSCL CodeAlarmLowerLimitColorAlarmUpperLimitColorBarBackColorBarEdgeStyleBarOrientation
+ScaleColorScalePositionSegmentColoringWarningLowerLimitColorWarningUpperLimitColorButtonBackColorButtonBackFillStyleButtonBorderBackColorButtonBorderColorButtonEdgeStyleButtonFirstGradientColorButtonMiddleGradientColorButtonSecondGradientColorGridlineAxisGridlineColorGridlineFillColorGridlineStyle
+RulerColorTableBackColorTableEvenRowBackColor	TableFontTableForeColorTableGridlineColorTableHeaderBackColorTableHeaderBackFillStyleTableHeaderBorderBackColorTableHeaderBorderColorTableHeaderEdgeStyleTableHeaderFirstGradientColorTableHeaderFontTableHeaderForeColorTableHeaderMiddleGradientColorTableHeaderSecondGradientColorTimeAxisModeTimeAxisSideCaptionGraphDirection	LineColorShowScrollbarsStatusbarBackColorStatusbarFontStatusbarFontColorToolbarAlignmentToolbarBackColorTooltipText	BeginTimeEndTime	FillColorLabel	LineStyleLineTypeLowerLimitColor
+PointColor
+PointStyle	RangeType
+SourceTypeTimeRangeBaseTrendWindowUncertainStateColorUpdateCycleXUpdateCycleYUpperLimitColorXAxisYAxisCoarseGridColorFineGridColor
+RulerLayer
+RulerStyleScalingTypeDataSourceNameDsnModeDataSourceXDataSourceYJobEvent
+AlarmClass	AlarmTextAlarmSourceButtonBarStyleColumnTextAckGroupColumnTextAlarmStateColumnTextAlarmTextColumnTextClassNameColumnTextDateColumnTextDeviceColumnTextDiagnosableColumnTextNumberColumnTextTime
+FilterTextSelectionBackColorSelectionForeColorSortByTimeDirectionViewTypeAcknowledgementBitAddressPlcAcknowledgementBitAddressTriggerBitAddress
+TriggerTagAcknowledgementTagDelayTimeUnitHysteresisMode	LimitMode
+LimitValueEvenRowBackColor
